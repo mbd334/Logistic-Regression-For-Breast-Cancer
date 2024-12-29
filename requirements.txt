@@ -1,5 +1,4 @@
-setuptools
-numpy>=1.23.2,<2.0.2
+numpy>=1.20.3
 pandas==2.0.3
 pickle5==0.0.11
 plotly==5.24.1
